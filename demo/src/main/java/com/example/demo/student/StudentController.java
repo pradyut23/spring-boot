@@ -1,3 +1,6 @@
+//Routes (API Layer)
+//Calls the functions from StudentService
+
 package com.example.demo.student;
 
 import java.util.List;

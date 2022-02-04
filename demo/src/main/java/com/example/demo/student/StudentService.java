@@ -1,3 +1,6 @@
+//Business Logic (ServiceLayer)
+//Functions defined here are called in StudentController
+
 package com.example.demo.student;
 
 import java.util.List;
